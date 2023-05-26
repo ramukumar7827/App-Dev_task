@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Ramu Trivia</string>
+    <string name="TotalQuestion">Total Question</string>
+    <string name="AnsA">Ans A</string>
+    <string name="AnsA1">Ans A</string>
+    <string name="AnsB">Ans B</string>
+    <string name="AnsC">Ans C</string>
+    <string name="AnsD">Ans D</string>
+    <string name="ThisT">This will be the question</string>
+    <string name="totalquestion">Total Question</string>
+    <string name="submit">Submit</string>
+    <string name="abc">All rights are reserved.</string>
+    <string name="abc1">Basic Version</string>
+    <string name="abc3">Trivia API</string>
+    <string name="abc4">With Scoring</string>
+    <string name="abc5">Whats the questio</string>
+    <string name="abc6">Whats the question</string>
+    <string name="next">Next</string>
+    <string name="next1">Next</string>
+    <string name="next2">Next</string>
+    <string name="secondqueston">Second Question</string>
+    <string name="klm1">Login Now</string>
+    <string name="klm2">Please Login To Continue.</string>
+    <string name="klm3">Login</string>
+    <string name="up">Dont\"t have a Account ? Click here.</string>
+    <string name="klm5">Sign Up</string>
+    <string name="klm6">Already have an account? Click here to login.</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="klm9">LogOut</string>
+    <string name="klm8">Welcome</string>
+    <string name="next5">Next</string>
+    <string name="klm15">Next Question</string>
+    <string name="NextQuestion">Next Question</string>
+    <string name="logout">Next Question</string>
+</resources>

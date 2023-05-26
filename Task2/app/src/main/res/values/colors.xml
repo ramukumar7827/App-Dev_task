@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name ="colourprimary">#B1AFA4</color>
+    <color name="colourprimaryDark">#11164E</color>
+    <color name="colour1">#FF471B5E</color>
+    <color name ="colourprimarytext">#1724AC</color>
+    <color name="colourtextOpakue">#CFB624</color>
+    <color name="colourramu">#083AD3</color>
+    <color name ="colourramcharan">#709E73</color>
+    <color name="colournitesh">#5E0505</color>
+    <color name="colournikhil">#0F6873</color>
+    <color name ="colourpranav">#F4EAEA</color>
+</resources>

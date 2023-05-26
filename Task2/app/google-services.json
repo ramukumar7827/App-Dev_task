@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904127489851",
+    "project_id": "ramu-trivia",
+    "storage_bucket": "ramu-trivia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904127489851:android:76aaa327fb9a17ca46791e",
+        "android_client_info": {
+          "package_name": "com.example.ramutrivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904127489851-5shpflm0lmmf589guugcrtv33d42t97g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY_pr55ghkDgUynbJyoTyhOi8rpspAp_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904127489851-5shpflm0lmmf589guugcrtv33d42t97g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
