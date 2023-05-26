@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Introduction app</string>
+    <string name="about_me"><u>About Me</u></string>
+    <string name="RamuKumar">Ramu Kumar</string>
+    <string name="AnsI">I am Ramu Kumar hailing from East Champaran Bihar,, I am a fresher in the field of Civil Engineering. My hobbies include playing Badminton, Cricket, Coding. I am working to improve upon my existing Java Skill. I have also worked in Alcheringa as a PR Associate.\n</string>
+    <string name="todo">TODO</string>
+    <string name="abc">TODO</string>
+    <string name="abcd">TODO</string>
+    <string name="ramu">TODO</string>
+</resources>
